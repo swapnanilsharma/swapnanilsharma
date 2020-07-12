@@ -23,10 +23,16 @@
   <a href="https://www.facebook.com/swapnanilsharma">
     <img src="https://img.shields.io/badge/FACEBOOK-4267B2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />        
   </a>&nbsp;&nbsp;
-  
+  <a href="https://twitter.com/swapnanilsharma">
+    <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />        
+  </a>&nbsp;&nbsp;  
 </p>
 
 <p align='center'>
   <a href="#"><img src="https://visitor-badge.glitch.me/badge?page_id=swapnanilsharma.swapnanilsharma"></a>
+  </p>
+  
+<p align='center'>
+  <a href="#"><img src="https://img.shields.io/github/followers/swapnanilsharma?label=GitHub&style=social"></a>
   </p>
 
