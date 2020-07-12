@@ -1,4 +1,6 @@
+<!-- 
 ![banner](https://github.com/swapnanilsharma/swapnanilsharma/blob/master/dino.gif)
+-->
 
 
 
