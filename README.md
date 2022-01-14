@@ -5,11 +5,11 @@
 
 
 <h1 align='center'>
-  Hi there 👋 I'm Swapnanil 👨‍💻
+  Hi there 👋 I'm Swapnanil Sharma👨‍💻
 </h1>
 
 <p align='center'>
-  A Data Scientist and Machine Learning Engineer from Bangalore, India.
+  A Data Scientist by profession and Blockchain Enthusiast from Bangalore, India.
 </p>
 
 <p align='center'>
