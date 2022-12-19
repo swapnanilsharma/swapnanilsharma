@@ -35,11 +35,4 @@ I am [Swapnanil Sharmah](http://www.swapnanilsharmah.in/), currently working wit
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=swapnanilsharma&theme=tokyonight" />
 </p>
 
-<!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-334%20hrs%2042%20mins-blue)
-
-
- Last Updated on 19/12/2022 12:17:33 UTC
-<!--END_SECTION:waka-->
-
 <!-- Sauce: https://github.com/alexandresanlim/Badges4-README.md-Profile -->
