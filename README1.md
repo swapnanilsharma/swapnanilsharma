@@ -26,37 +26,17 @@ I am [Swapnanil Sharmah](http://www.swapnanilsharmah.in/), currently working wit
 <table>
 <tr>
 <td>
-<img src="https://github-readme-stats.vercel.app/api?username=thepranaygupta&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=tokyonight"/>
-<td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=thepranaygupta&show_icons=true&locale=en&layout=compact&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api?username=swapnanilsharma&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=tokyonight"/>
+<td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=swapnanilsharma&show_icons=true&locale=en&layout=compact&theme=tokyonight" />
 </td>
 </tr>
 </table>
 <p align="center">
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thepranaygupta&theme=tokyonight" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=swapnanilsharma&theme=tokyonight" />
 </p>
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-334%20hrs%2042%20mins-blue)
-
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: Asia/Kolkata
-
-💬 Programming Languages: 
-CSS                      3 hrs 20 mins       ███████████░░░░░░░░░░░░░░   44.19% 
-HTML                     3 hrs 16 mins       ██████████░░░░░░░░░░░░░░░   43.38% 
-TypeScript               22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.92% 
-JSON                     16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   3.69% 
-SCSS                     16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   3.53%
-
-🔥 Editors: 
-VS Code                  7 hrs 33 mins       █████████████████████████   100.0%
-
-💻 Operating System: 
-Windows                  7 hrs 33 mins       █████████████████████████   100.0%
-
-```
 
 
  Last Updated on 19/12/2022 12:17:33 UTC
